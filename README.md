@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello!
+I'm Fatih and I'm a freshman student at Bilkent University.
+I'm really interested in programming and I would like to improve on that.
 
 <!--
 **TheTideSinger/TheTideSinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
